@@ -1,4 +1,4 @@
---创建表空间
+--创建表空间222222222222
 create tablespace itheima
 --指定表空间文件-表空间存储物理路径在服务器
 datafile 'C:\oracle\db\itheima.dbf'   (格式有两种,一种是dbf,一种是ora)此处是服务器地址,不是本地地址
